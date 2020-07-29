@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Applications\Bukur\FirstMVVM\obj\Debug\
+C:\Applications\Bukur\FirstMVVM\obj\Release\
 FirstMVVM
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Applications\Bukur\FirstMVVM\App.xaml
 11151548125
 
